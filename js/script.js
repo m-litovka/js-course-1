@@ -1,3 +1,5 @@
+"use strict";
+
 // let number = 7;
 // console.log(number); 
 
@@ -14,6 +16,11 @@
 // const answer = prompt("Are you 18?", "18");
 // console.log(answer);
 // console.log(typeof(answer));
+
+//Instead of doing print("this" + this2 + 'this3') - use interpolation:
+//Watch the syntax: ${}
+
+//another comment for commit check
 
 const category = "toys";
 
